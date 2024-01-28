@@ -35,7 +35,7 @@
  trackyournet 15 -u min -f {Your file/dir path here!} -r 10
  ```
  
- ## Final Message
- It's my first command line application and the first project I'm uploading to PyPI, so if you find a bug or have a suggestion, please, post it on [issues](https://github.com/VictorioMaculan/internet-speed-tracker/issues).
+ ## Final Message / Requirements
+ It's my first command line application and the first project I'm uploading to PyPI, so if you find a bug or have a suggestion, please, post it on [issues](https://github.com/VictorioMaculan/internet-speed-tracker/issues). (By the way, I pretend to add more ways of outputting the data).
 
- (By the way, I pretend to add more ways of outputting the data)
+ The packages/modules I used in this project are listed on [requirements.txt](https://github.com/VictorioMaculan/internet-speed-tracker/blob/main/requirements.txt).
